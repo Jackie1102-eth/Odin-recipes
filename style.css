@@ -1,0 +1,40 @@
+.h1{
+    text-align: center;
+    color: coral;
+    font-size: 28px;
+    font-family: sans-serif;
+    
+
+}
+p{
+    font-size: 20px;
+}
+.div{
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+.left{
+    display: block;
+}
+.center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+.right{
+    
+     display: block;
+     text-align: right;
+     margin-left: auto;
+    margin-right:0;
+}
+.ct{
+    font-size: 20px;
+}
+.image{
+    width: 350px;
+    height: auto;
+}
+
